@@ -42,7 +42,7 @@ p <- ggplot(px.df %>% filter( Level == LEVEL & Hyödyke != "0 KULUTTAJAHINTAINDE
   geom_point(size=0.7, colour="black", alpha=0.5) + 
   geom_smooth(na.rm = TRUE, se = F, color="#4C6085", span=1.0, alpha = 0.5) +
   facet_wrap(~HyodykeTitle, ncol = 4) +
-  ggtitle(label = paste("Inflaatio", latest_date, latest_change) , subtitle = "Inflaatio tavaroiden ja palveluiden pääryhmittäin (COICOP-luokituksen pääryhmät)") +
+  ggtitle(label = paste("Inflaatio", latest_date, latest_change) , subtitle = "Hintamuutokset tavaroiden ja palveluiden pääryhmittäin (COICOP-luokituksen pääryhmät)") +
   labs(
     caption = paste("L\U00E4hde:", cite.infl, "\nVisualisointi: Jan Moilanen", "\n", props)
   ) +
@@ -61,7 +61,7 @@ p <- ggplot(px.df %>% filter( Level == LEVEL & Hyödyke != "0 KULUTTAJAHINTAINDE
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
     plot.background = element_rect(fill = "white"),
-    strip.text = element_text(size = 20, colour = "#32322C"),
+    strip.text = element_text(size = 16, colour = "#32322C"),
     axis.text.x = element_text(
       angle = 45,
       size = 15,
