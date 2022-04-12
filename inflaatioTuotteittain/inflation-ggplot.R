@@ -28,7 +28,7 @@ px.df <- px.df.orig %>%
   )
 px.df.latest <- px.df %>% filter (Date == max(Date) & Hyödyke != "0 KULUTTAJAHINTAINDEKSI")
 latest_change <- paste(format(px.df.latest$`Vuosimuutos (%)`, decimal.mark = ","), "%")
-latest_date <- px.df.latest$Kuukausi
+latest_date <- px.df.latest$Date
 
 
 # Apumuuttujia
@@ -42,7 +42,7 @@ p <- ggplot(px.df %>% filter( Level == LEVEL & Hyödyke != "0 KULUTTAJAHINTAINDE
   geom_point(size=0.7, colour="black", alpha=0.5) + 
   geom_smooth(na.rm = TRUE, se = F, color="#4C6085", span=1.0, alpha = 0.5) +
   facet_wrap(~HyodykeTitle, ncol = 4) +
-  ggtitle(label = paste("Inflaatio", latest_date, latest_change) , subtitle = "Hintamuutokset tavaroiden ja palveluiden pääryhmittäin (COICOP-luokituksen pääryhmät)") +
+  ggtitle(label = paste("Inflaation trendi vuodesta 2010", "\nUusin tieto:", latest_change, "(", format(latest_date, "%B %Y") , ")") , subtitle = "Hintamuutokset tavaroiden ja palveluiden pääryhmittäin (COICOP-luokituksen pääryhmät)") +
   labs(
     caption = paste("L\U00E4hde:", cite.infl, "\nVisualisointi: Jan Moilanen", "\n", props)
   ) +
