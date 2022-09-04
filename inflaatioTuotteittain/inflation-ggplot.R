@@ -110,7 +110,7 @@ p
 
 
 ggsave(
-  "Inflaatio tuoteryhmittäin.png",
+  "Inflation in Finland by Commodity.png",
   width = 3570,
   height = 2000,
   units = "px",
