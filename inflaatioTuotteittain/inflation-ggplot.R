@@ -1,11 +1,9 @@
-
-# font_add_google(name = "Sulphlibrary(pxweb)
+library(pxweb)
 library(dplyr)
 library(ggplot2)
 library(ggtext)
 library(stringi)
 library(bslib)
-library(plotly)
 library(showtext)
 
 font_add_google(name = "Bebas Neue", regular.wt = 400, family = "sans-serif")
@@ -44,10 +42,11 @@ px_data_comments_df <- as.data.frame(px_data_comments)
 
 # Label Helper
 katkoLabel <- function(label) {
+  n = 55
   l = stri_length(label)
-  if (l > 20) {
-    a = stri_sub(label, 1, 30)
-    b = katkoLabel(stri_sub(label, 31, l))
+  if (l > n) {
+    a = stri_sub(label, 1, n)
+    b = katkoLabel(stri_sub(label, n + 1, l))
     return(stri_c(stri_replace_last_fixed(a, ' ', '\n '), b))
   }
   else
@@ -55,21 +54,23 @@ katkoLabel <- function(label) {
 }
 
 plotdata <- px.df %>% filter( Level == LEVEL & if(LANG == "fi") {Hyödyke != "0 KULUTTAJAHINTAINDEKSI"}
-                              else {Hyödyke != "0 CONSUMER PRICE INDEX"} & !is.na(vuosimuutos)) |>
+                              else {Hyödyke != "0 CONSUMER PRICE INDEX"} & !is.na(vuosimuutos))  |>
   mutate(
-    Geom_area_colour = ifelse(vuosimuutos < 0, "red", "white")
+    HyodykeTitle = as.character(lapply(HyodykeTitle, katkoLabel))
   )
+
 
 
 # Luodaan ggplotti
 p <- ggplot(plotdata, aes(Date, vuosimuutos)) +
   geom_smooth(na.rm = TRUE, se = F, color="#FCD900", span=0.5, alpha = 0.5, size = 1.0) +
   geom_area(fill = "#FCD900", alpha = 0.5) +
-  facet_wrap(~HyodykeTitle, ncol = 4, scales = "free") +
+  # geom_hline(yintercept = 0, colour = "white", size = 1) +
+  facet_wrap(~HyodykeTitle, ncol = 4) +#, scales = "free") +
   labs(
-    title = "<span style='color:red'>Inflation</span> in Finland by <span style='color:#ff8c00'>Commodity</span>",
+    title = "<span style='color:#FCD900'>Inflation</span> in Finland by <span style='color:#ff8c00'>Commodity</span>",
     subtitle = paste("Consumer Price Index (CPI) by Commodity, annual change in prices from 2010 onwards","\n",
-                     "Latest total annual change:", latest_change, "(", format(latest_date, "%B %Y") , ")" ),
+                     "Latest total annual change in", format(latest_date, "%b %Y"), latest_change ),
     caption = paste("Source:", cite.infl, "\nVisualisation: Jan Moilanen", "\n", props)
   ) +
   ylab("Annual change (%)") +
@@ -78,11 +79,11 @@ p <- ggplot(plotdata, aes(Date, vuosimuutos)) +
   theme(
     text = element_text(family = "sans-serif", size = 40, colour = "white"),
     legend.position = "none",
-    plot.title = element_markdown(),
+    plot.title = element_markdown(margin = margin(2, 2, 2, 0, "cm")),
     plot.subtitle = element_text(face = "italic", size = 30),
-    plot.caption = element_text(face = "italic", size = 20),
-    axis.title.y = element_text(size = 30, hjust = 0.0),
-    axis.title.x = element_text(size = 30, hjust = 0.0),
+    plot.caption = element_text(face = "italic", size = 25, colour = "grey50"),
+    axis.title.y = element_text(size = 30, hjust = 1.0, margin = margin(2, 2, 2, 2, "cm")),
+    axis.title.x = element_text(size = 30, hjust = 0.0, margin = margin(2, 2, 2, 2, "cm")),
     axis.line.x = element_line(colour = "#DFF6FF"),
     panel.border = element_blank(),
     panel.grid.major = element_line(colour = "grey30"),
