@@ -12,6 +12,8 @@ showtext_auto()
 
 LEVEL = 0
 LANG = "en"
+Sys.setlocale("LC_TIME", "C")
+
 
 # Noudetaan data Tilastokeskuksen rajapinnasta pxweb-kirjaston avulla
 pxweb_query_list <- list("Kuukausi"=c("*"), "Tiedot"=c("*"), "Hyödyke"=c("*"))
@@ -70,7 +72,7 @@ p <- ggplot(plotdata, aes(Date, vuosimuutos)) +
   labs(
     title = "<span style='color:#FCD900'>Inflation</span> in Finland by <span style='color:#ff8c00'>Commodity</span>",
     subtitle = paste("Consumer Price Index (CPI) by Commodity, annual change in prices from 2010 onwards","\n",
-                     "Latest total annual change in", format(latest_date, "%b %Y"), latest_change ),
+                     "Latest total annual change in", format(latest_date, "%B %Y"), latest_change ),
     caption = paste("Source:", cite.infl, "\nVisualisation: Jan Moilanen", "\n", props)
   ) +
   ylab("Annual change (%)") +
