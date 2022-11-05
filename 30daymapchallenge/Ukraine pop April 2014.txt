@@ -1,0 +1,28 @@
+Region	Total
+Autonomous Republic of Crimea	1959795
+Vinnytsya	1608407
+Volyn	1038880
+Dnipropetrovsk	3283890
+Donetsk	4321671
+Zhytomyr	1261300
+Zakarpattya	1254344
+Zaporizhzhya	1772138
+Ivano-Frankivsk	1378949
+Kyiv	1719990
+Kirovohrad	979004
+Luhansk	2230015
+Lviv	2517995
+Mykolayiv	1165901
+Odesa	2383670
+Poltava	1447459
+Rivne	1158101
+Sumy	1127841
+Ternopil	1068723
+Kharkiv	2720098
+Kherson	1069470
+Khmelnytskiy	1302064
+Cherkasy	1254053
+Chernivtsi	905342
+Chernihiv	1055288
+City of Kyiv	2828803
+Sevastopol agglomeration	384035
