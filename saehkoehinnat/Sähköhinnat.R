@@ -106,19 +106,22 @@ all <- rbind(sahko2011,
 
 # Persist
 write.zoo(all, "my-r-visualizations/sähköhinnat/sahko.csv")
-
+z <- read.zoo("my-r-visualizations/saehkoehinnat/sahko.csv", header = T)
+z <- as.xts(z)
 
 # Lasketaan kolmen kuukauden liukuva keskiarvo
-rolling3M <- rollapply(all, width = 90, FUN = mean, align = "center")
+rolling3M <- rollapply(z, width = 90, FUN = mean, align = "center")
 
-merged <- merge.xts(all, rolling3M)
+merged <- merge.xts(z, rolling3M)
 
-p <- ts_plot(merged,
+p <- ts_plot(merged[, 1],
              title = "Title",
              type = "multiple")
 p
 df <- fortify(merged)
 
+
+ts_decompose(merged[, "Production"])
 
 
 # Palette: https://coolors.co/palette/ff9f1c-479653-8aa1b1-0d122f
