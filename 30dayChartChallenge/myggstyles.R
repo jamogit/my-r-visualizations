@@ -53,25 +53,25 @@ df$Component <- factor(df$Component, levels = c("GDP", "P3_S14_S15", "P3_S13" ,"
                                   "Public consumption (P.3 S.13)",
                                   "Investments (P.51)",
                                   "Gross Exports (P.6 - P.7)",
-                                  "Savings (P.52 + P.53)",
+                                  "Changes in inventories (P.52 + P.53)",
                                   "Exports (P.6)",
                                   "Imports (P.7)",
-                                  "Statistical error"))
+                                  "Statistical discrepancy"))
 
 plotdata = df |> filter( !(Component %in% c("Gross Domestic Product", "Exports (P.6)", "Imports (P.7)")) )
 labels = df |> filter( Component == "Gross Domestic Product")
 
 p <- ggplot(data = plotdata, aes(x = `Year`, y = `value`, fill = `Component`)) +
   geom_area(alpha = 0.6, size = 0.2, colour = "grey90") +
-  geom_point(data = labels, aes(x = labels$Year, y = labels$value)) +
-  geom_line(data = labels, aes(x = labels$Year, y = labels$value)) +
+  # geom_point(data = labels, aes(x = labels$Year, y = labels$value)) +
+  # geom_line(data = labels, aes(x = labels$Year, y = labels$value)) +
   annotate("text", x = labels$Year, y = labels$value, label = paste0(format(labels$value, big.mark = " "), ""),
            check_overlap = TRUE,
            hjust = 1.2, colour = "grey50", angle =-25, size = 8) +
   labs(
       title = "Components of Gross Domestic Product (GDP) in Finland between 1975-2022*, market prices",
       subtitle = "Gross Domestic Product (GDP) as presented in the European System of Accounts ESA2010.
-GDP  = Private consumption (P.3 S.14+S.15) + Public consumption (P.3 S.13) + Investments (P.51) + Savings (P.52 + P.53) + Exports (P.6) - Imports (P.7)",
+GDP  = Private consumption (P.3 S.14+S.15) + Public consumption (P.3 S.13) + Investments (P.51) + Changes in inventories (P.52 + P.53) + Net exports (Exports P.6 - Imports P.7)",
       caption = "\nDatasource: Statistics Finland     |     #30DayChartChallenge - Day 1     |     DataViz: @janmoilanen_ek\n",
       alt = "Alternative description",
       x = "Year",
@@ -94,7 +94,7 @@ GDP  = Private consumption (P.3 S.14+S.15) + Public consumption (P.3 S.13) + Inv
     legend.position = "bottom",
     legend.title = element_blank()
     ) +
-  paletteer::scale_fill_paletteer_d("colorBlindness::paletteMartin") +
+  scale_fill_economist() +
   scale_y_continuous(labels = scales::label_number_auto())
 
 p
