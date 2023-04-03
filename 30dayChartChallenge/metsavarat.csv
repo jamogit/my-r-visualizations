@@ -1,0 +1,191 @@
+"maakunta";"ikäluokka";"VMI 12/13 (2017-2021)"
+"Uusimaa";"Puuton";8
+"Uusimaa";"Ikäluokka - 1-20";92
+"Uusimaa";"Ikäluokka - 21-40";114
+"Uusimaa";"Ikäluokka - 41-60";118
+"Uusimaa";"Ikäluokka - 61-80";74
+"Uusimaa";"Ikäluokka - 81-100";45
+"Uusimaa";"Ikäluokka - 101-120";30
+"Uusimaa";"Ikäluokka - 121-140";7
+"Uusimaa";"Ikäluokka - 141+";11
+"Uusimaa";"Metsämaa yhteensä";500
+"Varsinais-Suomi";"Puuton";7
+"Varsinais-Suomi";"Ikäluokka - 1-20";100
+"Varsinais-Suomi";"Ikäluokka - 21-40";93
+"Varsinais-Suomi";"Ikäluokka - 41-60";118
+"Varsinais-Suomi";"Ikäluokka - 61-80";88
+"Varsinais-Suomi";"Ikäluokka - 81-100";72
+"Varsinais-Suomi";"Ikäluokka - 101-120";46
+"Varsinais-Suomi";"Ikäluokka - 121-140";22
+"Varsinais-Suomi";"Ikäluokka - 141+";14
+"Varsinais-Suomi";"Metsämaa yhteensä";562
+"Satakunta";"Puuton";9
+"Satakunta";"Ikäluokka - 1-20";84
+"Satakunta";"Ikäluokka - 21-40";95
+"Satakunta";"Ikäluokka - 41-60";115
+"Satakunta";"Ikäluokka - 61-80";104
+"Satakunta";"Ikäluokka - 81-100";53
+"Satakunta";"Ikäluokka - 101-120";30
+"Satakunta";"Ikäluokka - 121-140";22
+"Satakunta";"Ikäluokka - 141+";11
+"Satakunta";"Metsämaa yhteensä";523
+"Kanta-Häme";"Puuton";7
+"Kanta-Häme";"Ikäluokka - 1-20";72
+"Kanta-Häme";"Ikäluokka - 21-40";76
+"Kanta-Häme";"Ikäluokka - 41-60";74
+"Kanta-Häme";"Ikäluokka - 61-80";51
+"Kanta-Häme";"Ikäluokka - 81-100";39
+"Kanta-Häme";"Ikäluokka - 101-120";16
+"Kanta-Häme";"Ikäluokka - 121-140";9
+"Kanta-Häme";"Ikäluokka - 141+";1
+"Kanta-Häme";"Metsämaa yhteensä";346
+"Pirkanmaa";"Puuton";13
+"Pirkanmaa";"Ikäluokka - 1-20";192
+"Pirkanmaa";"Ikäluokka - 21-40";205
+"Pirkanmaa";"Ikäluokka - 41-60";237
+"Pirkanmaa";"Ikäluokka - 61-80";152
+"Pirkanmaa";"Ikäluokka - 81-100";84
+"Pirkanmaa";"Ikäluokka - 101-120";50
+"Pirkanmaa";"Ikäluokka - 121-140";20
+"Pirkanmaa";"Ikäluokka - 141+";10
+"Pirkanmaa";"Metsämaa yhteensä";963
+"Päijät-Häme";"Puuton";2
+"Päijät-Häme";"Ikäluokka - 1-20";84
+"Päijät-Häme";"Ikäluokka - 21-40";97
+"Päijät-Häme";"Ikäluokka - 41-60";88
+"Päijät-Häme";"Ikäluokka - 61-80";70
+"Päijät-Häme";"Ikäluokka - 81-100";35
+"Päijät-Häme";"Ikäluokka - 101-120";14
+"Päijät-Häme";"Ikäluokka - 121-140";6
+"Päijät-Häme";"Ikäluokka - 141+";2
+"Päijät-Häme";"Metsämaa yhteensä";397
+"Kymenlaakso";"Puuton";7
+"Kymenlaakso";"Ikäluokka - 1-20";75
+"Kymenlaakso";"Ikäluokka - 21-40";76
+"Kymenlaakso";"Ikäluokka - 41-60";78
+"Kymenlaakso";"Ikäluokka - 61-80";36
+"Kymenlaakso";"Ikäluokka - 81-100";15
+"Kymenlaakso";"Ikäluokka - 101-120";10
+"Kymenlaakso";"Ikäluokka - 121-140";7
+"Kymenlaakso";"Ikäluokka - 141+";3
+"Kymenlaakso";"Metsämaa yhteensä";308
+"Etelä-Karjala";"Puuton";7
+"Etelä-Karjala";"Ikäluokka - 1-20";100
+"Etelä-Karjala";"Ikäluokka - 21-40";99
+"Etelä-Karjala";"Ikäluokka - 41-60";109
+"Etelä-Karjala";"Ikäluokka - 61-80";45
+"Etelä-Karjala";"Ikäluokka - 81-100";24
+"Etelä-Karjala";"Ikäluokka - 101-120";19
+"Etelä-Karjala";"Ikäluokka - 121-140";5
+"Etelä-Karjala";"Ikäluokka - 141+";2
+"Etelä-Karjala";"Metsämaa yhteensä";412
+"Etelä-Savo";"Puuton";15
+"Etelä-Savo";"Ikäluokka - 1-20";231
+"Etelä-Savo";"Ikäluokka - 21-40";266
+"Etelä-Savo";"Ikäluokka - 41-60";284
+"Etelä-Savo";"Ikäluokka - 61-80";110
+"Etelä-Savo";"Ikäluokka - 81-100";75
+"Etelä-Savo";"Ikäluokka - 101-120";50
+"Etelä-Savo";"Ikäluokka - 121-140";25
+"Etelä-Savo";"Ikäluokka - 141+";14
+"Etelä-Savo";"Metsämaa yhteensä";1071
+"Pohjois-Savo";"Puuton";22
+"Pohjois-Savo";"Ikäluokka - 1-20";263
+"Pohjois-Savo";"Ikäluokka - 21-40";349
+"Pohjois-Savo";"Ikäluokka - 41-60";367
+"Pohjois-Savo";"Ikäluokka - 61-80";146
+"Pohjois-Savo";"Ikäluokka - 81-100";101
+"Pohjois-Savo";"Ikäluokka - 101-120";62
+"Pohjois-Savo";"Ikäluokka - 121-140";29
+"Pohjois-Savo";"Ikäluokka - 141+";21
+"Pohjois-Savo";"Metsämaa yhteensä";1361
+"Pohjois-Karjala";"Puuton";27
+"Pohjois-Karjala";"Ikäluokka - 1-20";270
+"Pohjois-Karjala";"Ikäluokka - 21-40";358
+"Pohjois-Karjala";"Ikäluokka - 41-60";455
+"Pohjois-Karjala";"Ikäluokka - 61-80";217
+"Pohjois-Karjala";"Ikäluokka - 81-100";108
+"Pohjois-Karjala";"Ikäluokka - 101-120";67
+"Pohjois-Karjala";"Ikäluokka - 121-140";33
+"Pohjois-Karjala";"Ikäluokka - 141+";31
+"Pohjois-Karjala";"Metsämaa yhteensä";1565
+"Keski-Suomi";"Puuton";18
+"Keski-Suomi";"Ikäluokka - 1-20";232
+"Keski-Suomi";"Ikäluokka - 21-40";321
+"Keski-Suomi";"Ikäluokka - 41-60";358
+"Keski-Suomi";"Ikäluokka - 61-80";171
+"Keski-Suomi";"Ikäluokka - 81-100";107
+"Keski-Suomi";"Ikäluokka - 101-120";64
+"Keski-Suomi";"Ikäluokka - 121-140";27
+"Keski-Suomi";"Ikäluokka - 141+";17
+"Keski-Suomi";"Metsämaa yhteensä";1316
+"Etelä-Pohjanmaa";"Puuton";16
+"Etelä-Pohjanmaa";"Ikäluokka - 1-20";159
+"Etelä-Pohjanmaa";"Ikäluokka - 21-40";173
+"Etelä-Pohjanmaa";"Ikäluokka - 41-60";188
+"Etelä-Pohjanmaa";"Ikäluokka - 61-80";149
+"Etelä-Pohjanmaa";"Ikäluokka - 81-100";114
+"Etelä-Pohjanmaa";"Ikäluokka - 101-120";77
+"Etelä-Pohjanmaa";"Ikäluokka - 121-140";43
+"Etelä-Pohjanmaa";"Ikäluokka - 141+";21
+"Etelä-Pohjanmaa";"Metsämaa yhteensä";941
+"Pohjanmaa";"Puuton";6
+"Pohjanmaa";"Ikäluokka - 1-20";85
+"Pohjanmaa";"Ikäluokka - 21-40";119
+"Pohjanmaa";"Ikäluokka - 41-60";138
+"Pohjanmaa";"Ikäluokka - 61-80";68
+"Pohjanmaa";"Ikäluokka - 81-100";41
+"Pohjanmaa";"Ikäluokka - 101-120";25
+"Pohjanmaa";"Ikäluokka - 121-140";14
+"Pohjanmaa";"Ikäluokka - 141+";7
+"Pohjanmaa";"Metsämaa yhteensä";503
+"Keski-Pohjanmaa";"Puuton";5
+"Keski-Pohjanmaa";"Ikäluokka - 1-20";42
+"Keski-Pohjanmaa";"Ikäluokka - 21-40";58
+"Keski-Pohjanmaa";"Ikäluokka - 41-60";93
+"Keski-Pohjanmaa";"Ikäluokka - 61-80";66
+"Keski-Pohjanmaa";"Ikäluokka - 81-100";35
+"Keski-Pohjanmaa";"Ikäluokka - 101-120";18
+"Keski-Pohjanmaa";"Ikäluokka - 121-140";11
+"Keski-Pohjanmaa";"Ikäluokka - 141+";8
+"Keski-Pohjanmaa";"Metsämaa yhteensä";336
+"Pohjois-Pohjanmaa";"Puuton";48
+"Pohjois-Pohjanmaa";"Ikäluokka - 1-20";336
+"Pohjois-Pohjanmaa";"Ikäluokka - 21-40";330
+"Pohjois-Pohjanmaa";"Ikäluokka - 41-60";488
+"Pohjois-Pohjanmaa";"Ikäluokka - 61-80";567
+"Pohjois-Pohjanmaa";"Ikäluokka - 81-100";360
+"Pohjois-Pohjanmaa";"Ikäluokka - 101-120";178
+"Pohjois-Pohjanmaa";"Ikäluokka - 121-140";88
+"Pohjois-Pohjanmaa";"Ikäluokka - 141+";120
+"Pohjois-Pohjanmaa";"Metsämaa yhteensä";2515
+"Kainuu";"Puuton";24
+"Kainuu";"Ikäluokka - 1-20";255
+"Kainuu";"Ikäluokka - 21-40";281
+"Kainuu";"Ikäluokka - 41-60";391
+"Kainuu";"Ikäluokka - 61-80";337
+"Kainuu";"Ikäluokka - 81-100";121
+"Kainuu";"Ikäluokka - 101-120";58
+"Kainuu";"Ikäluokka - 121-140";39
+"Kainuu";"Ikäluokka - 141+";118
+"Kainuu";"Metsämaa yhteensä";1625
+"Lappi";"Puuton";35
+"Lappi";"Ikäluokka - 1-20";445
+"Lappi";"Ikäluokka - 21-40";475
+"Lappi";"Ikäluokka - 41-60";562
+"Lappi";"Ikäluokka - 61-80";985
+"Lappi";"Ikäluokka - 81-100";784
+"Lappi";"Ikäluokka - 101-120";378
+"Lappi";"Ikäluokka - 121-140";205
+"Lappi";"Ikäluokka - 141+";992
+"Lappi";"Metsämaa yhteensä";4860
+"Ahvenanmaa";"Puuton";0
+"Ahvenanmaa";"Ikäluokka - 1-20";7
+"Ahvenanmaa";"Ikäluokka - 21-40";15
+"Ahvenanmaa";"Ikäluokka - 41-60";18
+"Ahvenanmaa";"Ikäluokka - 61-80";9
+"Ahvenanmaa";"Ikäluokka - 81-100";8
+"Ahvenanmaa";"Ikäluokka - 101-120";3
+"Ahvenanmaa";"Ikäluokka - 121-140";3
+"Ahvenanmaa";"Ikäluokka - 141+";1
+"Ahvenanmaa";"Metsämaa yhteensä";64
