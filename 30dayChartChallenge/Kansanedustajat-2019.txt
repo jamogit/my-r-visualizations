@@ -1,0 +1,201 @@
+Nimi	Puolue	Vaalipiiri	Kansanedustajana
+Annika Saarikko		Keskusta	Varsinais-Suomi	2011–
+Matti Vanhanen		Keskusta	Uusimaa	1991–2010, 2015–
+Katri Kulmuni		Keskusta	Lappi	2015–
+Antti Kaikkonen		Keskusta	Uusimaa	2003–
+Jari Leppä		Keskusta	Kaakkois-Suomi	1999–
+Antti Kurvinen		Keskusta	Vaasa	2015–
+Hanna Kosonen		Keskusta	Kaakkois-Suomi	2015–
+Juha Sipilä		Keskusta	Oulu	2011–
+Hannakaisa Heikkinen		Keskusta	Savo-Karjala	2007–2011, 2015–
+Anne Kalmari		Keskusta	Keski-Suomi	2007–
+Eeva Kalli		Keskusta	Satakunta	2019–
+Pasi Kivisaari		Keskusta	Vaasa	2019–
+Mikko Kärnä		Keskusta	Lappi	2015–2018, 2019–
+Mikko Kinnunen		Keskusta	Oulu	2019–
+Juha Pylväs		Keskusta	Oulu	2015–
+Mika Lintilä		Keskusta	Vaasa	1999–
+Hanna-Leena Mattila		Keskusta	Oulu	2018–
+Mikko Savola		Keskusta	Vaasa	2011–
+Arto Pirttilahti		Keskusta	Pirkanmaa	2011–
+Anu Vehviläinen		Keskusta	Savo-Karjala	1995–2003, 2007–
+Jouni Ovaska		Keskusta	Pirkanmaa	2019–
+Markus Lohi		Keskusta	Lappi	2011–
+Hannu Hoskonen		Keskusta	Savo-Karjala	2003–2011, 2015–
+Petri Honkonen		Keskusta	Keski-Suomi	2015–
+Antti Rantakangas		Keskusta	Oulu	1999–2019
+Pekka Aittakumpu		Keskusta	Oulu	2019–
+Ari Torniainen		Keskusta	Kaakkois-Suomi	2011–
+Hanna Huttunen		Keskusta	Savo-Karjala	2019–
+Esko Kiviranta		Keskusta	Varsinais-Suomi	2003–
+Hilkka Kemppi		Keskusta	Häme	2019–
+Joonas Könttä		Keskusta	Keski-Suomi	2019–
+Petteri Orpo		Kokoomus	Varsinais-Suomi	2007–
+Kai Mykkänen		Kokoomus	Uusimaa	2015–
+Antti Häkkänen		Kokoomus	Kaakkois-Suomi	2015–
+Elina Valtonen		Kokoomus	Uusimaa	2014–
+Ben Zyskowicz		Kokoomus	Helsinki	1979–
+Jaana Pelkonen		Kokoomus	Helsinki	2011–
+Paula Risikko		Kokoomus	Vaasa	2003–
+Marko Kilpi		Kokoomus	Savo-Karjala	2019–
+Anna-Kaisa Ikonen		Kokoomus	Pirkanmaa	2019–2021
+Pia Kauma		Kokoomus	Uusimaa	2011–2015, 2017–
+Juhana Vartiainen		Kokoomus	Helsinki	2015–2021
+Sari Multala		Kokoomus	Uusimaa	2015–
+Heikki Vestman		Kokoomus	Uusimaa	2019–
+Sanni Grahn-Laasonen		Kokoomus	Häme	2011–
+Sofia Vikman		Kokoomus	Pirkanmaa	2011–
+Ilkka Kanerva		Kokoomus	Varsinais-Suomi	1975–2022
+Terhi Koulumies		Kokoomus	Helsinki	2019–
+Anne-Mari Virolainen		Kokoomus	Varsinais-Suomi	2007–
+Sari Sarkomaa		Kokoomus	Helsinki	1999–
+Sinuhe Wallinheimo		Kokoomus	Keski-Suomi	2011–
+Pauli Kiuru		Kokoomus	Pirkanmaa	2011–
+Kalle Jokinen		Kokoomus	Häme	2009–
+Mari-Leena Talvitie		Kokoomus	Oulu	2015–
+Mia Laiho		Kokoomus	Uusimaa	2018–
+Timo Heinonen		Kokoomus	Häme	2007–
+Heikki Autto		Kokoomus	Lappi	2011–2015, 2019–
+Arto Satonen		Kokoomus	Pirkanmaa	2003–
+Matias Marttinen		Kokoomus	Satakunta	2019–
+Saara-Sofia Sirén		Kokoomus	Varsinais-Suomi	2015–
+Ruut Sjöblom		Kokoomus	Uusimaa	2019–
+Kari Tolvanen		Kokoomus	Uusimaa	2011–
+Janne Heikkinen		Kokoomus	Oulu	2019–
+Jukka Kopra		Kokoomus	Kaakkois-Suomi	2011–
+Ville Kaunisto		Kokoomus	Kaakkois-Suomi	2019–
+Pihla Keto-Huovinen		Kokoomus	Uusimaa	2019–
+Markku Eestilä		Kokoomus	Savo-Karjala	2011–
+Janne Sankelo		Kokoomus	Vaasa	2011–2015, 2019–
+Sari Essayah		Kristillisdemokraatit	Savo-Karjala	2003–2007, 2015–
+Päivi Räsänen		Kristillisdemokraatit	Häme	1995–
+Sari Tanus		Kristillisdemokraatit	Pirkanmaa	2015–
+Peter Östman		Kristillisdemokraatit	Vaasa	2011–
+Antero Laukkanen		Kristillisdemokraatit	Uusimaa	2015–
+Harry Harkimo		Liike Nyt	Uusimaa	2015–
+Ville Tavio		Perussuomalaiset	Varsinais-Suomi	2015–
+Mauri Peltokangas		Perussuomalaiset	Vaasa	2019–
+Laura Huhtasaari		Perussuomalaiset	Satakunta	2015–2019
+Sami Savio		Perussuomalaiset	Pirkanmaa	2015–
+Vilhelm Junnila		Perussuomalaiset	Varsinais-Suomi	2019–
+Juho Eerola		Perussuomalaiset	Kaakkois-Suomi	2011–
+Leena Meri		Perussuomalaiset	Uusimaa	2015–
+Sebastian Tynkkynen		Perussuomalaiset	Oulu	2019–
+Jenna Simula		Perussuomalaiset	Oulu	2019–
+Teuvo Hakkarainen		Perussuomalaiset	Keski-Suomi	2011–2019
+Lulu Ranne		Perussuomalaiset	Häme	2019–
+Ritva "Kike" Elomaa		Perussuomalaiset	Varsinais-Suomi	2011–
+Mika Niikko		Perussuomalaiset	Uusimaa	2011–
+Rami Lehto		Perussuomalaiset	Häme	2015–
+Jani Mäkelä		Perussuomalaiset	Kaakkois-Suomi	2015–
+Juha Mäenpää		Perussuomalaiset	Vaasa	2019–
+Jari Ronkainen		Perussuomalaiset	Häme	2015–
+Riikka Purra		Perussuomalaiset	Uusimaa	2019–
+Wille Rydman		Perussuomalaiset	Helsinki	2015–
+Olli Immonen		Perussuomalaiset	Oulu	2011–
+Sanna Antikainen		Perussuomalaiset	Savo-Karjala	2019–
+Kaisa Juuso		Perussuomalaiset	Lappi	2019–
+Jussi Wihonen		Perussuomalaiset	Savo-Karjala	2019–
+Kristian Sheikki Laakso		Perussuomalaiset	Kaakkois-Suomi	2019–
+Arja Juvonen		Perussuomalaiset	Uusimaa	2011–
+Ari Koponen		Perussuomalaiset	Uusimaa	2019–
+Ville Vähämäki		Perussuomalaiset	Oulu	2011–
+Minna Reijonen		Perussuomalaiset	Savo-Karjala	2019–
+Sakari Puisto		Perussuomalaiset	Pirkanmaa	2019–
+Veikko Vallin		Perussuomalaiset	Pirkanmaa	2019–
+Mikko Lundén		Perussuomalaiset	Varsinais-Suomi	2019–
+Jari Koskela		Perussuomalaiset	Satakunta	2019–
+Riikka Slunga-Poutsalo		Perussuomalaiset	Uusimaa	2019–
+Veijo Niemi		Perussuomalaiset	Pirkanmaa	2019–
+Mari Rantanen		Perussuomalaiset	Helsinki	2019–
+Jouni Kotiaho		Perussuomalaiset	Keski-Suomi	2019–
+Tom Packalén		Perussuomalaiset	Helsinki	2011–
+Mika Raatikainen		Perussuomalaiset	Helsinki	2014–2019
+Anna-Maja Henriksson		RKP	Vaasa	2007–
+Thomas Blomqvist		RKP	Uusimaa	2007–
+Anders Adlercreutz		RKP	Uusimaa	2015–
+Joakim Strand		RKP	Vaasa	2015–
+Mikko Ollikainen		RKP	Vaasa	2019–
+Anders Norrback		RKP	Vaasa	2019–
+Veronica Rehn-Kivi		RKP	Uusimaa	2016–
+Eva Biaudet		RKP	Helsinki	1991–2006, 2015–
+Sandra Bergqvist		RKP	Varsinais-Suomi	2019–
+Mats Löfström		För Åland	Ahvenanmaa	2015–
+Sanna Marin		Sosiaalidemokraatit	Pirkanmaa	2015–
+Tytti Tuppurainen		Sosiaalidemokraatit	Oulu	2011–
+Tuula Haatainen		Sosiaalidemokraatit	Helsinki	1996–2007, 2015–
+Ville Skinnari		Sosiaalidemokraatit	Häme	2015–
+Krista Kiuru		Sosiaalidemokraatit	Satakunta	2007–
+Timo Harakka		Sosiaalidemokraatit	Uusimaa	2015–
+Sirpa Paatero		Sosiaalidemokraatit	Kaakkois-Suomi	2006–
+Antti Lindtman		Sosiaalidemokraatit	Uusimaa	2011–
+Antti Rinne		Sosiaalidemokraatit	Uusimaa	2015–
+Jutta Urpilainen		Sosiaalidemokraatit	Vaasa	2003–2019
+Kristiina Salonen		Sosiaalidemokraatit	Satakunta	2011–
+Maria Guzenina		Sosiaalidemokraatit	Uusimaa	2007–
+Ilmari Nurminen		Sosiaalidemokraatit	Pirkanmaa	2015–
+Eveliina Heinäluoma		Sosiaalidemokraatit	Helsinki	2019–
+Aki Lindén		Sosiaalidemokraatit	Varsinais-Suomi	2019–
+Riitta Mäkinen		Sosiaalidemokraatit	Keski-Suomi	2018–
+Pia Viitanen		Sosiaalidemokraatit	Pirkanmaa	1995–
+Merja Mäkisalo-Ropponen		Sosiaalidemokraatit	Savo-Karjala	2011–
+Eeva-Johanna Eloranta		Sosiaalidemokraatit	Varsinais-Suomi	2011–
+Marko Asell		Sosiaalidemokraatit	Pirkanmaa	2007–2011, 2019–
+Tarja Filatov		Sosiaalidemokraatit	Häme	1995–
+Kim Berg		Sosiaalidemokraatit	Vaasa	2019–
+Johanna Ojala-Niemelä		Sosiaalidemokraatit	Lappi	2007–
+Anneli Kiljunen		Sosiaalidemokraatit	Kaakkois-Suomi	2003–
+Seppo Eskelinen		Sosiaalidemokraatit	Savo-Karjala	2019–
+Suna Kymäläinen		Sosiaalidemokraatit	Kaakkois-Suomi	2011–
+Paula Werning		Sosiaalidemokraatit	Kaakkois-Suomi	2019–
+Niina Malm		Sosiaalidemokraatit	Kaakkois-Suomi	2019–
+Katja Taimela		Sosiaalidemokraatit	Varsinais-Suomi	2007–
+Johannes Koskinen		Sosiaalidemokraatit	Häme	1991–2015, 2019–
+Mika Kari		Sosiaalidemokraatit	Häme	2011–
+Erkki Tuomioja		Sosiaalidemokraatit	Helsinki	1970–1979, 1991–
+Jukka Gustafsson		Sosiaalidemokraatit	Pirkanmaa	1987–
+Kimmo Kiljunen		Sosiaalidemokraatit	Uusimaa	1995–2011, 2019–
+Hussein al-Taee		Sosiaalidemokraatit	Uusimaa	2019–
+Johan Kvarnström		Sosiaalidemokraatit	Uusimaa	2019–
+Tuula Väätäinen		Sosiaalidemokraatit	Savo-Karjala	2003–2015, 2019–
+Matias Mäkynen		Sosiaalidemokraatit	Vaasa	2019–
+Piritta Rantanen		Sosiaalidemokraatit	Keski-Suomi	2019–
+Raimo Piirainen		Sosiaalidemokraatit	Oulu	2009–2015, 2019–
+Heidi Viljanen		Sosiaalidemokraatit	Satakunta	2019–
+Ano Turtiainen		Valta kuuluu kansalle	Kaakkois-Suomi	2019–
+Li Andersson		Vasemmistoliitto	Varsinais-Suomi	2015–
+Aino-Kaisa Pekonen		Vasemmistoliitto	Häme	2011–
+Paavo Arhinmäki		Vasemmistoliitto	Helsinki	2007–2021
+Hanna Sarkkinen		Vasemmistoliitto	Oulu	2015–
+Anna Kontula		Vasemmistoliitto	Pirkanmaa	2011–
+Mai Kivelä		Vasemmistoliitto	Helsinki	2019–
+Veronika Honkasalo		Vasemmistoliitto	Helsinki	2019–
+Markus Mustajärvi		Vasemmistoliitto	Lappi	2003–
+Katja Hänninen		Vasemmistoliitto	Oulu	2014–
+Jari Myllykoski		Vasemmistoliitto	Satakunta	2011–
+Juho Kautto		Vasemmistoliitto	Keski-Suomi	2019–
+Jussi Saramo		Vasemmistoliitto	Uusimaa	2019–
+Risto Kalliorinne		Vasemmistoliitto	Oulu	2011–2015, 2019
+Matti Semi		Vasemmistoliitto	Savo-Karjala	2015–
+Johannes Yrttiaho		Vasemmistoliitto	Varsinais-Suomi	2019–
+Pia Lohikoski		Vasemmistoliitto	Uusimaa	2019–
+Maria Ohisalo		Vihreät	Helsinki	2019–
+Pekka Haavisto		Vihreät	Helsinki	1987–1995, 2007–
+Krista Mikkonen		Vihreät	Savo-Karjala	2015–
+Emma Kari		Vihreät	Helsinki	2015–
+Jenni Pitko		Vihreät	Oulu	2019–
+Mari Holopainen		Vihreät	Helsinki	2019–
+Pirkka-Pekka Petelius		Vihreät	Uusimaa	2019–
+Inka Hopsu		Vihreät	Uusimaa	2019–
+Outi Alanko-Kahiluoto		Vihreät	Helsinki	2007–
+Iiris Suomela		Vihreät	Pirkanmaa	2019–
+Satu Hassi		Vihreät	Pirkanmaa	1991–2004, 2015–
+Atte Harjanne		Vihreät	Helsinki	2019–
+Noora Koponen		Vihreät	Uusimaa	2019–
+Saara Hyrkkö		Vihreät	Uusimaa	2019–
+Bella Forsgrén		Vihreät	Keski-Suomi	2019–
+Sofia Virta		Vihreät	Varsinais-Suomi	2019–
+Tiina Elo		Vihreät	Uusimaa	2019–
+Heli Järvinen		Vihreät	Kaakkois-Suomi	2007–2011, 2015–
+Hanna Holopainen		Vihreät	Kaakkois-Suomi	2019–
+Mirka Soinikoski		Vihreät	Häme	2019–
